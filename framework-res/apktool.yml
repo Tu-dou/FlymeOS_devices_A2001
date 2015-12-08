@@ -1,0 +1,20 @@
+version: 2.0.3-8fee34-SNAPSHOT
+apkFileName: framework-res.apk
+isFrameworkApk: true
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '22'
+packageInfo:
+  forced-package-id: '1'
+versionInfo:
+  versionCode: '22'
+  versionName: 5.1.1-eng.mone.20151203.230724
+sharedLibrary: false
+doNotCompress:
+- arsc
+- raw
+- dic
+- html
+- bin
+- frag
+- vert
